@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:18:1-37:12
+ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:3:1-22:12
+INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:3:1-22:12
+INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:3:1-22:12
+INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:3:1-22:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\admin\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\admin\.gradle\caches\transforms-3\20007ed3e9bf2a2b3c8e8034ac85ae30\transformed\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\admin\.gradle\caches\transforms-3\0ffb827c8eff4299fa7b9dc8773db933\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\admin\.grad
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\admin\.gradle\caches\transforms-3\402a899b584fcf5c55e9845621aa965a\transformed\support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\admin\.gradle\caches\transforms-3\598bac8afb35d8d15acdb577722154df\transformed\support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\c6335d5d821ceca9b147ae358bc39bdd\transformed\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
-INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:18:1-37:12
-INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:3:1-22:12
+INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:3:1-22:12
+INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:3:1-22:12
 	package
-		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:19:5-45
+		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:4:5-45
 		INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml
 		INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml
-		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:18:1-37:12
+		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:3:1-22:12
 		INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml
-		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:18:1-37:12
+		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:3:1-22:12
 		INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:18:11-69
+		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:3:11-69
 application
-ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:21:5-35:19
+ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:6:5-20:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\admin\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\admin\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\admin\.gradle\caches\transforms-3\20007ed3e9bf2a2b3c8e8034ac85ae30\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
@@ -57,31 +57,31 @@ MERGED from [com.android.support:support-compat:26.1.0] C:\Users\admin\.gradle\c
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\c6335d5d821ceca9b147ae358bc39bdd\transformed\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\c6335d5d821ceca9b147ae358bc39bdd\transformed\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:26:9-35
+		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:25:9-54
+		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:23:9-43
+		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:27:9-40
+		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:12:9-40
 activity#com.example.android.hellotoast.MainActivity
-ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:28:9-34:20
+ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:28:19-47
+		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:29:13-33:29
+ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:30:17-69
+ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:30:25-66
+		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:32:17-77
+ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:32:27-74
+		ADDED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\CNTT\FilesLapTrinh\AndroidFiles\HelloToast1\app\src\main\AndroidManifest.xml

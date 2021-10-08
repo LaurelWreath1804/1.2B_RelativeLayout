@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -23,6 +23,9 @@
 
     <TextView
         android:id="@+id/show_count"
+        android:layout_below="@+id/button_toast"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -34,11 +37,11 @@
         android:text="@string/count_initial_value"
         android:textColor="@color/colorPrimary"
         android:textSize="160sp"
-        android:textStyle="bold"
-        android:layout_weight="1" />
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/button_count"
+        android:layout_below="@+id/show_count"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -47,6 +50,7 @@
         android:background="@color/colorPrimary"
         android:onClick="countUp"
         android:text="@string/button_label_count"
-        android:textColor="@android:color/white" />
+        android:textColor="@android:color/white"
+        android:layout_centerHorizontal="true" />
 
-</LinearLayout>
+</RelativeLayout>
